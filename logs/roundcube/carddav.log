@@ -1,0 +1,14 @@
+[15-Dec-2021 08:25:45 +0000]: <49342e70> In migration: 0000-dbinit
+[15-Dec-2021 08:25:45 +0000]: <49342e70> Found 7 matches
+[15-Dec-2021 08:25:45 +0000]: <49342e70> In migration: 0000-sample
+[15-Dec-2021 08:25:45 +0000]: <49342e70> Found 1 matches
+[15-Dec-2021 08:25:45 +0000]: <49342e70> In migration: 0001-categories
+[15-Dec-2021 08:25:45 +0000]: <49342e70> Found 1 matches
+[15-Dec-2021 08:25:45 +0000]: <49342e70> In migration: 0002-increasetextfieldlengths
+[15-Dec-2021 08:25:45 +0000]: <49342e70> Found 7 matches
+[15-Dec-2021 08:25:45 +0000]: <49342e70> In migration: 0003-fixtimestampdefaultvalue
+[15-Dec-2021 08:25:45 +0000]: <49342e70> Found 1 matches
+[15-Dec-2021 08:25:45 +0000]: <49342e70> In migration: 0004-fixtimestampdefaultvalue
+[15-Dec-2021 08:25:45 +0000]: <49342e70> Found 1 matches
+[15-Dec-2021 08:25:45 +0000]: <49342e70> In migration: 0005-changemysqlut8toutf8mb4
+[15-Dec-2021 08:25:45 +0000]: <49342e70> Found 1 matches

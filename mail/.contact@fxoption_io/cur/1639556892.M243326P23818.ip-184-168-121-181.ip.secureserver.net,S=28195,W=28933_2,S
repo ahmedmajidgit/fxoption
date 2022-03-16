@@ -1,0 +1,738 @@
+Return-Path: <0100017dbd340e6a-b2e12174-a4da-4033-b968-f40415fefd99-000000@amazonses.com>
+Delivered-To: contact@fxoption.io
+Received: from ip-184-168-121-181.ip.secureserver.net
+	by ip-184-168-121-181.ip.secureserver.net with LMTP
+	id 9fpnDhynuWEKXQAA7OSyDQ
+	(envelope-from <0100017dbd340e6a-b2e12174-a4da-4033-b968-f40415fefd99-000000@amazonses.com>)
+	for <contact@fxoption.io>; Wed, 15 Dec 2021 08:28:12 +0000
+Return-path: <0100017dbd340e6a-b2e12174-a4da-4033-b968-f40415fefd99-000000@amazonses.com>
+Envelope-to: contact@fxoption.io
+Delivery-date: Wed, 15 Dec 2021 08:28:12 +0000
+Received: from a10-165.smtp-out.amazonses.com ([54.240.10.165]:33253)
+	by ip-184-168-121-181.ip.secureserver.net with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <0100017dbd340e6a-b2e12174-a4da-4033-b968-f40415fefd99-000000@amazonses.com>)
+	id 1mxPdx-0006B2-B4
+	for contact@fxoption.io; Wed, 15 Dec 2021 08:28:12 +0000
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=es37j4cfy4x5q7nxczghfa3zef7lffrv; d=tradingview.com;
+	t=1639556845;
+	h=Content-Type:MIME-Version:Content-Transfer-Encoding:Subject:From:To:Date:Message-ID;
+	bh=7/VMOhSj9krGCO9+Bfs8baFWQgl0Ee2IyjyB8Yk2o0k=;
+	b=LxezQTkmylDwHlhdHe3/bSmfk/bs82lAMsuuCua/5M+FOdm5irx1j1VosWQfpg52
+	63VhvZeJ+q05u8n//DKbjeRhaHQfsPqV0hjHSa1/nUJ57O9jIXhkZFJ1YGAd0vllfaK
+	1xVfMtsLb0OyAWvdvL0drvOg7qMIrV+REIpiTg+g=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ug7nbtf4gccmlpwj322ax3p6ow6yfsug; d=amazonses.com; t=1639556845;
+	h=Content-Type:MIME-Version:Content-Transfer-Encoding:Subject:From:To:Date:Message-ID:Feedback-ID;
+	bh=7/VMOhSj9krGCO9+Bfs8baFWQgl0Ee2IyjyB8Yk2o0k=;
+	b=SGlk1Q6i8kiH4SpcqCPl1QPUlna8RvaJIy1WND+auQfjGTZP/WDdamiC0DKtv2EP
+	GO4F8CLsMWQ3xyVLxbBNDg3HhqmLyrp0I7vmdYj9rcZcy0O4uODTf+DTD1zSaN8YLMm
+	RnyVBSTMEKML5tvZXlofOxRqq6b8AYVoPJlEEraI=
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Subject: HTML5 Technical Analysis Charts
+From: TradingView Team <platforms@tradingview.com>
+To: contact@fxoption.io
+Date: Wed, 15 Dec 2021 08:27:25 +0000
+Message-ID: <0100017dbd340e6a-b2e12174-a4da-4033-b968-f40415fefd99-000000@email.amazonses.com>
+Feedback-ID: 1.us-east-1.dJX2xx0zsf93o2zkSlILUU/8EdBfridsykCSgjgyirk=:AmazonSES
+X-SES-Outgoing: 2021.12.15-54.240.10.165
+X-Spam-Status: No, score=0.1
+X-Spam-Score: 1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "ip-184-168-121-181.ip.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Get the most out of TradingView Start using TradingView HTML5
+    Technical Analysis Charts 
+ Content analysis details:   (0.1 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: mailchimp.com]
+  0.2 HEADER_FROM_DIFFERENT_DOMAINS From and EnvelopeFrom 2nd level
+                             mail domains are different
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 HTML_FONT_LOW_CONTRAST BODY: HTML font color similar or
+                             identical to background
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+X-Spam-Flag: NO
+
+
+<html>
+	<head>
+		<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+		<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1">
+		<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+		<style type=3D"text/css">
+			body,
+			table,
+			td,
+			a {
+				-webkit-text-size-adjust: 100%;
+				-ms-text-size-adjust: 100%;
+			}
+			table,
+			td {
+				mso-table-lspace: 0pt;
+				mso-table-rspace: 0pt;
+			}
+			img {
+				-ms-interpolation-mode: bicubic;
+			}
+			img {
+				border: 0;
+				height: auto;
+				line-height: 100%;
+				outline: none;
+				text-decoration: none;
+			}
+
+			table {
+				border-collapse: collapse !important;
+			}
+
+			body {
+				height: 100% !important;
+				margin: 0 !important;
+				padding: 0 !important;
+				width: 100% !important;
+			}
+			a[x-apple-data-detectors] {
+				color: inherit !important;
+				text-decoration: none !important;
+				font-size: inherit !important;
+				font-family: inherit !important;
+				font-weight: inherit !important;
+				line-height: inherit !important;
+			}
+
+			@media screen and (max-width:600px) {
+				.columnWrapper {
+					max-width: 100% !important;
+					width: 100% !important;
+				}
+				.full {
+					width: 100% !important;
+					display: block;
+				}
+				.hide {
+					display: none !important;
+				}
+				.hr {
+					border-top: 1px solid #e0e3eb;
+				}
+				.left {
+					text-align: left !important;
+				}
+				.center {
+					text-align: center !important;
+				}
+				h1.dynamic {
+					font-size: 32px !important;
+					line-height: 40px !important;
+				}
+				h3.dynamic {
+					font-size: 24px !important;
+					line-height: 30px !important;
+				}
+			}
+			div[style*=3D"margin: 16px 0;"] {
+				margin: 0 !important;
+			}
+			/***
+			@media only screen and (max-width: 599px) {}
+			@media only screen and (max-width: 479px) {}
+			@media only screen and (max-width: 476px) {}
+			@media only screen and (max-width: 460px) {}
+			@media only screen and (max-width: 414px) {}
+			@media only screen and (max-width: 375px) {}
+			@media only screen and (max-width: 320px) {}
+			***/
+		</style>
+	</head>
+	<body style=3D"margin: 0px !important; padding: 0 !important; background-c=
+olor: #f8f9fd;">
+		<div style=3D"display: none; font-size: 1px; color: #fefefe; line-height:=
+ 1px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; max-height=
+: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+			Get the most out of TradingView
+		</div>
+		<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+			<tbody>
+				<tr>
+					<td bgcolor=3D"#f8f9fd" align=3D"center">
+						<!--[if (gte mso 9)|(IE)]>
+						<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"600">
+						<tr>
+						<td align=3D"center" valign=3D"top" width=3D"600">
+						<![endif]-->
+							<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" style=3D"max-width: 600px;">
+								<tbody>
+									<tr>
+										<td colspan=3D"3" height=3D"30" style=3D"font-size:30px; line-hei=
+ght:30px;">&nbsp;</td>
+									</tr>
+									<tr>
+										<td width=3D"44" align=3D"left" valign=3D"middle" style=3D"paddin=
+g: 5px 0px 5px 10px;">
+											<a href=3D"https://tradingview.com/?utm_source=3Dlightweight1_em=
+ail&amp;utm_medium=3Demail&amp;utm_campaign=3Dlightweight1_email_logo" targ=
+et=3D"_blank">
+												<img alt=3D"TradingView" src=3D"https://gallery.mailchimp.com/4=
+af5a9e2e2d51c22c87e8d44a/images/c41d8d74-b80c-4cf3-8857-fb533b29c1e2.png" w=
+idth=3D"44" height=3D"25" style=3D"width: 44px; max-width: 44px; min-width:=
+ 44px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; color: #1=
+31722; font-size: 18px;" border=3D"0">
+											</a>
+										</td>
+										<td align=3D"left" valign=3D"bottom" style=3D"padding: 5px 10px 5=
+px 10px;" class=3D"hide">
+											<a href=3D"https://tradingview.com/?utm_source=3Dlightweight1_em=
+ail&amp;utm_medium=3Demail&amp;utm_campaign=3Dlightweight1_email_logo" targ=
+et=3D"_blank">
+												<img alt=3D"TradingView" src=3D"https://gallery.mailchimp.com/4=
+af5a9e2e2d51c22c87e8d44a/images/f216117b-a9c4-4621-9060-8a94e6827552.png" w=
+idth=3D"112" height=3D"20" style=3D"width: 112px; max-width: 112px; min-wid=
+th: 112px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; color=
+: #131722; font-size: 18px;" border=3D"0">
+											</a>
+										</td>
+										<td align=3D"right" valign=3D"middle" style=3D"padding: 5px 10px =
+5px 10px;">
+											<p style=3D"margin: 0px; padding: 0px; font-family: 'Trebuchet M=
+S', Helvetica, Arial, sans-serif; font-size: 18px; line-height: 18px; color=
+: #131722;">
+												Start using TradingView
+											</p>
+										</td>
+									</tr>
+									<tr>
+										<td colspan=3D"3" height=3D"18" style=3D"font-size:18px; line-hei=
+ght:18px;">&nbsp;</td>
+									</tr>
+								</tbody>
+							</table>
+						<!--[if (gte mso 9)|(IE)]>
+						</td>
+						</tr>
+						</table>
+						<![endif]-->
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+		<tbody>
+			<tr>
+				<td bgcolor=3D"#f8f9fd" align=3D"center" style=3D"padding: 0px 10px 0px=
+ 10px;">
+					<!--[if (gte mso 9)|(IE)]>
+					<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" width=3D"600">
+					<tr>
+					<td align=3D"center" valign=3D"top" width=3D"600">
+					<![endif]-->
+						<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" style=3D"max-width: 600px;">
+							<tbody>
+								<tr>
+									<td bgcolor=3D"#ffffff" align=3D"left" valign=3D"top" style=3D"bor=
+der-radius: 6px 6px 6px 6px; text-align: left;">
+										<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"=
+100%">
+											<tbody>
+												<tr>
+													<td height=3D"40" style=3D"font-size:30px; line-height:30px;">=
+&nbsp;</td>
+												</tr>
+												<tr>
+													<td valign=3D"top" align=3D"center" style=3D"text-align: cente=
+r; padding: 0px 32px;">
+														<img src=3D"https://s3.tradingview.com/mail/technicalchart2x.=
+png" style=3D"-ms-interpolation-mode: bicubic; height: auto; max-width: 282=
+px; width: 100%;" width=3D"282" alt=3D"" border=3D"0">
+													</td>
+												</tr>
+												<tr>
+													<td height=3D"24" style=3D"font-size:24px; line-height:24px;">=
+&nbsp;</td>
+												</tr>
+												<tr>
+													<td valign=3D"top" align=3D"center" style=3D"text-align: cente=
+r; padding: 0px 32px;">
+														<h3 style=3D"
+															margin: 0px 0px 16px 0px;
+															padding: 0px;
+															font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+															font-size: 36px;
+															line-height: 44px;
+															color: #131722;
+															text-align: center !important;
+														">
+															HTML5 Technical Analysis Charts
+														</h3>
+														<p style=3D"
+															margin: 0px 0px 16px 0px;
+															padding: 0px;
+															font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+															font-size: 16px;
+															line-height: 24px;
+															color: #131722;
+															text-align: center !important;
+														">
+															Hi Bilguun,
+														</p>
+														<p style=3D"
+															margin: 0px;
+															padding: 0px;
+															font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+															font-size: 16px;
+															line-height: 24px;
+															color: #131722;
+															text-align: center !important;
+														">
+															Thanks for choosing TradingView <b>Technical Analysis Charts=
+</b>. Your application is being reviewed right now. Our business team will =
+get back to you shortly.
+														</p>
+													</td>
+												</tr>
+												<tr>
+													<td height=3D"32" style=3D"font-size:30px; line-height:30px;">=
+&nbsp;</td>
+												</tr>
+												<tr>
+													<td valign=3D"top" align=3D"center" style=3D"text-align: cente=
+r; padding: 0px 32px;">
+														<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+															<tbody>
+																<tr>
+																	<td bgcolor=3D"#f8f9fd" align=3D"left" valign=3D"top" styl=
+e=3D"border-radius: 6px; text-align: left; padding: 16px 20px;">
+																		<p style=3D"
+																			margin: 0px 0px 8px 0px;
+																			padding: 0px;
+																			font-family: 'Trebuchet MS', Helvetica, Arial, sans-seri=
+f;
+																			font-size: 18px;
+																			line-height: 26px;
+																			color: #131722;
+																			text-align: left !important;
+																		">
+																			<strong>Please note:</strong>
+																		</p>
+																		<p style=3D"
+																			margin: 0px;
+																			padding: 0px;
+																			font-family: 'Trebuchet MS', Helvetica, Arial, sans-seri=
+f;
+																			font-size: 16px;
+																			line-height: 24px;
+																			color: #131722;
+																			text-align: left !important;
+																		">
+																			The invite to the dedicated GitHub repository will be se=
+nt to your GitHub account email.
+																		</p>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+												<tr>
+													<td height=3D"48" style=3D"font-size:30px; line-height:30px;">=
+&nbsp;</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					<!--[if (gte mso 9)|(IE)]>
+					</td>
+					</tr>
+					</table>
+					<![endif]-->
+				</td>
+			</tr>
+			<tr>
+				<td height=3D"48" bgcolor=3D"#f8f9fd" style=3D"font-size:30px; line-hei=
+ght:30px;">&nbsp;</td>
+			</tr>
+		</tbody>
+	</table>
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+		<tbody>
+			<tr>
+				<td bgcolor=3D"#f8f9fd" align=3D"center" style=3D"padding: 0px 10px 0px=
+ 10px;">
+					<!--[if (gte mso 9)|(IE)]>
+					<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" width=3D"600">
+					<tr>
+					<td align=3D"center" valign=3D"top" width=3D"600">
+					<![endif]-->
+						<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" style=3D"max-width: 600px;">
+							<tbody>
+								<tr>
+									<td bgcolor=3D"#ffffff" align=3D"left" valign=3D"top" style=3D"bor=
+der-radius: 6px 6px 6px 6px; text-align: left;">
+										<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"=
+100%">
+											<tbody>
+												<tr>
+													<td height=3D"48" style=3D"font-size:30px; line-height:30px;">=
+&nbsp;</td>
+												</tr>
+												<tr>
+													<td valign=3D"top" align=3D"center" style=3D"text-align: cente=
+r; padding: 0px 32px;">
+														<h3 style=3D"
+															margin: 0px 0px 16px 0px;
+															padding: 0px;
+															font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+															font-size: 28px;
+															line-height: 36px;
+															color: #131722;
+															text-align: center !important;
+														">
+															Meanwhile, check out some of our other products:
+														</h3>
+													</td>
+												</tr>
+												<tr>
+													<td height=3D"8" style=3D"font-size:8px; line-height:8px;">&nb=
+sp;</td>
+												</tr>
+												<tr>
+													<td valign=3D"top" align=3D"left" style=3D"text-align: left; p=
+adding: 0px 32px;">
+														<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" ali=
+gn=3D"center">
+															<tbody>
+																<tr>
+																	<td width=3D"268" class=3D"full" align=3D"center" valign=
+=3D"top">
+																		<p style=3D"
+																			margin: 0px 24px 12px 24px;
+																			padding: 0px;
+																			font-family: 'Trebuchet MS', Helvetica, Arial, sans-seri=
+f;
+																			font-size: 16px;
+																			line-height: 24px;
+																			color: #131722;
+																			text-align: center !important;
+																		">
+																			<img src=3D"https://s3.tradingview.com/mail/freeicon2x.p=
+ng" width=3D"72" height=3D"72" alt=3D"" border=3D"0" style=3D"width: 72px; =
+height: 72px; max-width: 72px;">
+																		</p>
+																		<p style=3D"
+																			margin: 0px 24px 24px 24px;
+																			padding: 0px;
+																			font-family: 'Trebuchet MS', Helvetica, Arial, sans-seri=
+f;
+																			font-size: 18px;
+																			line-height: 26px;
+																			color: #131722;
+																			text-align: center !important;
+																		">
+																				<a href=3D"https://github.com/tradingview/lightweight-c=
+harts" target=3D"_blank" style=3D"text-decoration: none; color: #2962FF;">L=
+ightweight Chart</a> =E2=80=94 open-source, fast, free and awesome.
+																		</p>
+																	</td>
+																	<td width=3D"268" class=3D"full" align=3D"center" valign=
+=3D"top">
+																		<p style=3D"
+																			margin: 0px 24px 12px 24px;
+																			padding: 0px;
+																			font-family: 'Trebuchet MS', Helvetica, Arial, sans-seri=
+f;
+																			font-size: 16px;
+																			line-height: 24px;
+																			color: #131722;
+																			text-align: center !important;
+																		">
+																			<img src=3D"https://s3.tradingview.com/mail/widgetsicon2=
+x.png" width=3D"72" height=3D"72" alt=3D"" border=3D"0" style=3D"width: 72p=
+x; height: 72px; max-width: 72px;">
+																		</p>
+																		<p style=3D"
+																			margin: 0px 24px 24px 24px;
+																			padding: 0px;
+																			font-family: 'Trebuchet MS', Helvetica, Arial, sans-seri=
+f;
+																			font-size: 18px;
+																			line-height: 26px;
+																			color: #131722;
+																			text-align: center !important;
+																		">
+																				18 insightful & free <a href=3D"https://www.tradingview=
+.com/widget/" target=3D"_blank" style=3D"text-decoration: none; color: #296=
+2FF;">financial widgets</a> for your website
+																		</p>
+																	</td>
+																</tr>
+																<tr>
+																	<td width=3D"268" class=3D"full" align=3D"center" valign=
+=3D"top">
+																		<p style=3D"
+																			margin: 0px 24px 12px 24px;
+																			padding: 0px;
+																			font-family: 'Trebuchet MS', Helvetica, Arial, sans-seri=
+f;
+																			font-size: 16px;
+																			line-height: 24px;
+																			color: #131722;
+																			text-align: center !important;
+																		">
+																			<img src=3D"https://s3.tradingview.com/mail/toolsicon2x.=
+png" width=3D"72" height=3D"72" alt=3D"" border=3D"0" style=3D"width: 72px;=
+ height: 72px; max-width: 72px;">
+																		</p>
+																		<p style=3D"
+																			margin: 0px 24px 24px 24px;
+																			padding: 0px;
+																			font-family: 'Trebuchet MS', Helvetica, Arial, sans-seri=
+f;
+																			font-size: 18px;
+																			line-height: 26px;
+																			color: #131722;
+																			text-align: center !important;
+																		">
+																				RSS & embeddable trading idea feeds & free chatting <a =
+href=3D"https://www.tradingview.com/publishing-tools/" target=3D"_blank" st=
+yle=3D"text-decoration: none; color: #2962FF;">tools</a>.
+																		</p>
+																	</td>
+																	<td width=3D"268" class=3D"full" align=3D"center" valign=
+=3D"top">
+																		<p style=3D"
+																			margin: 0px 24px 12px 24px;
+																			padding: 0px;
+																			font-family: 'Trebuchet MS', Helvetica, Arial, sans-seri=
+f;
+																			font-size: 16px;
+																			line-height: 24px;
+																			color: #131722;
+																			text-align: center !important;
+																		">
+																			<img src=3D"https://s3.tradingview.com/mail/tradingicon2=
+x.png" width=3D"72" height=3D"72" alt=3D"" border=3D"0" style=3D"width: 72p=
+x; height: 72px; max-width: 72px;">
+																		</p>
+																		<p style=3D"
+																			margin: 0px 24px 24px 24px;
+																			padding: 0px;
+																			font-family: 'Trebuchet MS', Helvetica, Arial, sans-seri=
+f;
+																			font-size: 18px;
+																			line-height: 26px;
+																			color: #131722;
+																			text-align: center !important;
+																		">
+																				A robust <a href=3D"https://www.tradingview.com/HTML5-s=
+tock-forex-bitcoin-charting-library/" target=3D"_blank" style=3D"text-decor=
+ation: none; color: #2962FF;">Charting & Trading Platform</a>, <span style=
+=3D"color: #131722;">a paid platform with trading capabilities.</span>
+																		</p>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+														<p style=3D"
+															margin: 0px;
+															padding: 0px;
+															font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+															font-size: 16px;
+															line-height: 24px;
+															color: #131722;
+															text-align: left !important;
+														">
+														Our Technical Analysis Charts are free. The only licensing co=
+ndition is that the TradingView attribution is not to be removed or obscure=
+d in any way.
+														</p>
+													</td>
+												</tr>
+												<tr>
+													<td height=3D"48" style=3D"font-size:30px; line-height:30px;">=
+&nbsp;</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					<!--[if (gte mso 9)|(IE)]>
+					</td>
+					</tr>
+					</table>
+					<![endif]-->
+				</td>
+			</tr>
+			<tr>
+				<td height=3D"48" bgcolor=3D"#f8f9fd" style=3D"font-size:30px; line-hei=
+ght:30px;">&nbsp;</td>
+			</tr>
+		</tbody>
+	</table>
+		<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+			<tbody>
+				<tr>
+					<td bgcolor=3D"#f8f9fd" align=3D"center" style=3D"padding: 0px 10px 0p=
+x 10px;">
+						<!--[if (gte mso 9)|(IE)]>
+						<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"600">
+						<tr>
+						<td align=3D"center" valign=3D"top" width=3D"600">
+						<![endif]-->
+							<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" style=3D"max-width: 600px;">
+								<tbody>
+									<tr>
+										<td align=3D"left" valign=3D"top" style=3D"text-align: left;">
+											<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"100%">
+												<tbody>
+													<tr>
+														<td valign=3D"top" align=3D"left" style=3D"text-align: left; =
+padding: 0px;">
+															<p style=3D"margin: 0px 0px 8px 0px; padding: 0px; font-fami=
+ly: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 18px; line-hei=
+ght: 26px; color: #131722; text-align: left !important;">
+																<strong>Please note:</strong>
+															</p>
+															<p style=3D"margin: 0px 0px 24px 0px; padding: 0px; font-fam=
+ily: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 16px; line-he=
+ight: 24px; color: #131722;text-align: left !important;">
+																		<i>Lightweight Charts, Technical Analysis Charts and Char=
+ting & Trading Platform</i> are standalone self-hosted products, they do no=
+t come with a backend or a data feed.
+															</p>
+															<p style=3D"margin: 0px 0px 8px 0px; padding: 0px; font-fami=
+ly: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 16px; line-hei=
+ght: 24px; color: #131722; text-align: left !important;">
+																	If you have any questions or ideas regarding our partnersh=
+ip, feel free to contact us at <a href=3D"mailto:platforms@tradingview.com"=
+ style=3D"color: #131722;">platforms@tradingview.com</a>
+															</p>
+															<p style=3D"margin: 0px 0px 18px 0px; padding: 0px; font-fam=
+ily: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 16px; line-he=
+ight: 24px; color: #131722; text-align: left !important;">
+																Sincerely yours,
+																<br>
+																TradingView Team
+															</p>
+														</td>
+													</tr>
+													<tr>
+														<td height=3D"20" style=3D"font-size:20px; line-height:20px;"=
+>&nbsp;</td>
+													</tr>
+													<tr>
+														<td class=3D"hr" height=3D"20" style=3D"font-size:20px; line-=
+height:20px;">&nbsp;</td>
+													</tr>
+													<tr>
+														<td valign=3D"top" align=3D"left" style=3D"text-align: left;">
+															<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" widt=
+h=3D"100%">
+																<tbody>
+																	<tr>
+																		<td class=3D"full center">
+																			<a href=3D"https://itunes.apple.com/us/app/tradingview-t=
+rading-community-charts-and-quotes/id1205990992" target=3D"_blank"><img src=
+=3D"https://gallery.mailchimp.com/4af5a9e2e2d51c22c87e8d44a/images/fc8549a9=
+-7971-46ca-9530-f40736cb2e34.png" width=3D"97" height=3D"32" alt=3D"Downloa=
+d on the App Store" border=3D"0"></a>&nbsp;&nbsp;&nbsp;<a href=3D"https://p=
+lay.google.com/store/apps/details?id=3Dcom.tradingview.tradingviewapp" targ=
+et=3D"_blank"><img src=3D"https://gallery.mailchimp.com/4af5a9e2e2d51c22c87=
+e8d44a/images/9c3bd71e-9151-428a-93bd-b666b0d4103c.png" width=3D"108" heigh=
+t=3D"32" alt=3D"Get it on Google Play" border=3D"0"></a>
+																			<br><br>
+																		</td>
+																		<td class=3D"full center" align=3D"right" nowrap=3D"">
+																			<a href=3D"https://www.facebook.com/tradingview/" target=
+=3D"_blank"><img src=3D"https://gallery.mailchimp.com/4af5a9e2e2d51c22c87e8=
+d44a/images/5ac0624c-be2b-4d4a-bfb9-6d298218327e.png" width=3D"32" height=
+=3D"32" alt=3D"TradingView on Facebook" border=3D"0"></a>&nbsp;&nbsp;<a hre=
+f=3D"https://www.youtube.com/channel/UCfOflihrkOKDQZ_ZKtF2VfQ" target=3D"_b=
+lank"><img src=3D"https://gallery.mailchimp.com/4af5a9e2e2d51c22c87e8d44a/i=
+mages/565836c6-8fb2-4e31-8c97-d03000f13454.png" width=3D"32" height=3D"32" =
+alt=3D"TradingView on Youtube" border=3D"0"></a>&nbsp;&nbsp;<a href=3D"http=
+s://www.linkedin.com/company/tradingview/" target=3D"_blank"><img src=3D"ht=
+tps://gallery.mailchimp.com/4af5a9e2e2d51c22c87e8d44a/images/78d8e934-f9fb-=
+44f2-a0ae-f7c364ff6a90.png" width=3D"32" height=3D"32" alt=3D"TradingView o=
+n LinkedIn" border=3D"0"></a>&nbsp;&nbsp;<a href=3D"https://twitter.com/tra=
+dingview/" target=3D"_blank"><img src=3D"https://gallery.mailchimp.com/4af5=
+a9e2e2d51c22c87e8d44a/images/bc9b4f8d-1bd0-4a22-8a69-601f0bb4d81e.png" widt=
+h=3D"32" height=3D"32" alt=3D"TradingView on Twitter" border=3D"0"></a>
+																			<br><br>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+														</td>
+													</tr>
+													<tr>
+														<td valign=3D"top" align=3D"center" style=3D"text-align: cent=
+er; padding: 0px;">
+															<p style=3D"margin: 0px 0px 25px 0px; padding: 0px; font-fam=
+ily: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 14px; color: =
+#5d606b; line-height: 20px;">
+																470 Olde Worthington Rd., Suite 200, Westerville&nbsp;OH&nb=
+sp;43082
+															</p>
+														</td>
+													</tr>
+													<tr>
+														<td height=3D"30" style=3D"border-top: 1px solid #e0e3eb;font=
+-size:30px; line-height:30px;">&nbsp;</td>
+													</tr>
+												</tbody>
+											</table>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+						<!--[if (gte mso 9)|(IE)]>
+						</td>
+						</tr>
+						</table>
+						<![endif]-->
+					</td>
+				</tr>
+				<tr>
+					<td height=3D"48" bgcolor=3D"#f8f9fd" style=3D"font-size:30px; line-he=
+ight:30px;">&nbsp;</td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>

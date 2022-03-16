@@ -1,0 +1,120 @@
+Return-Path: <chandmanibaatar@gmail.com>
+Delivered-To: contact@fxoption.io
+Received: from ip-184-168-121-181.ip.secureserver.net
+	by ip-184-168-121-181.ip.secureserver.net with LMTP
+	id 4WerF86muWE1XAAA7OSyDQ
+	(envelope-from <chandmanibaatar@gmail.com>)
+	for <contact@fxoption.io>; Wed, 15 Dec 2021 08:26:54 +0000
+Return-path: <chandmanibaatar@gmail.com>
+Envelope-to: contact@fxoption.io
+Delivery-date: Wed, 15 Dec 2021 08:26:54 +0000
+Received: from mail-yb1-f179.google.com ([209.85.219.179]:38741)
+	by ip-184-168-121-181.ip.secureserver.net with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.94.2)
+	(envelope-from <chandmanibaatar@gmail.com>)
+	id 1mxPcg-00067h-QV
+	for contact@fxoption.io; Wed, 15 Dec 2021 08:26:54 +0000
+Received: by mail-yb1-f179.google.com with SMTP id v64so53070978ybi.5
+        for <contact@fxoption.io>; Wed, 15 Dec 2021 00:26:29 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20210112;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=cUCh/9cjUUSmOKxlD75rgUfC6udM3SyXWcCMUxfAd2c=;
+        b=girBb1Rmy7J3kepce72bSu4gdKSwgf33GhNCxcvjBU9K1iGZsyvEpTqWx9x4EST84V
+         AxY0JD7cuYZNt+kaIhPUwJZo7ywNqrnURI37OLkKcqnw6xmYTi4Fh//2vpjnkVeoRBc5
+         yxGKbrHYvwyFqzH6cVWvA/vhkqpHrghGv0SfjxmpEf/YTUOOoce9HStWHEtLJyJgDRFl
+         qWMYDI4OpdwUX7rc+9LT8RtU7BN4xi4HALv3+JQYuJaUA41zXylAdlAZ/RtZCstJ4sbf
+         mayKNHXobpau9GUp41oPPnkIe2oVOV+iKowLyvMJ7pXjpumsYj91DXhs4s1Lcluiy9C5
+         YWfw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20210112;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=cUCh/9cjUUSmOKxlD75rgUfC6udM3SyXWcCMUxfAd2c=;
+        b=eqQbIrrhZBXNt7VGOsS8Y/+nfu/FdogO2bbkbauU6sDesmsy7O+pnY/M64mU1gKAZl
+         yvCdjGdVN+SbP4NUngURqqHjCAr747/+AF9cPeM3EAC4t0OyiO2dHvzeFpt2gAVCseBB
+         ESej3X0CWh0yYMK7lw2fstl8YCKJfu8xZno1ysCsnyW9e1I+wMYh5OLIXXvX3gE0bx6T
+         9C7bcqJxxLtwwFONAoaUzq/rio6Gj3O6MHGaQUgXyxAt8QnPYalDVd7MLf2hUZ4GEklY
+         xNhkedmoM8dXa2PnFhvTohvJ7mN7+xh9hI0UdcHs8KVZxu0Qk40le4vNruIOlr3rsiNz
+         xsSA==
+X-Gm-Message-State: AOAM533G3BFuLzS4qTwk1IA+up6TYFsid43S1RmTFI3ydCa2Gur8+C6u
+	FxoOkkvUZVOksYhykFEfNfL0B+dHaVhgrOa/PSEpdYvFxmk=
+X-Google-Smtp-Source: ABdhPJzYANSj3l7yQB/3mAT8Z5jpRHmYN80j6dLIwOudjc3VSHi0fqw4AlYNufkl+p3YeyutHPkKYpXnVVQEATxb6/s=
+X-Received: by 2002:a25:ccd0:: with SMTP id l199mr5053307ybf.39.1639556767653;
+ Wed, 15 Dec 2021 00:26:07 -0800 (PST)
+MIME-Version: 1.0
+From: Chandmanibaatar <chandmanibaatar@gmail.com>
+Date: Wed, 15 Dec 2021 00:25:25 -0800
+Message-ID: <CAJhKoXEU+NTQC0BO3vdx++KZNxEE7-RffL5muH6JqRKNM4r0Lg@mail.gmail.com>
+Subject: test
+To: contact@fxoption.io
+Content-Type: multipart/alternative; boundary="000000000000b9a3f605d32b0e59"
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "ip-184-168-121-181.ip.secureserver.net",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  sdbfsm ,bf,ms -- Chandmanibaatar Bayarbat CEO at Marketincy
+    
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: marketincy.com]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider
+                             [chandmanibaatar[at]gmail.com]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+X-Spam-Flag: NO
+
+--000000000000b9a3f605d32b0e59
+Content-Type: text/plain; charset="UTF-8"
+
+sdbfsm ,bf,ms
+
+-- 
+
+
+Chandmanibaatar Bayarbat
+CEO at Marketincy
+
+Marketing Agency
+
+
+Marketincy.com <http://www.Marketincy.com>
+
+--000000000000b9a3f605d32b0e59
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">sdbfsm ,bf,ms=C2=A0<br clear=3D"all"><div><br></div>-- <br=
+><div dir=3D"ltr" class=3D"gmail_signature" data-smartmail=3D"gmail_signatu=
+re"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><di=
+v dir=3D"ltr"><font color=3D"#333333" face=3D"tahoma, sans-serif" size=3D"2=
+">=C2=A0 =C2=A0</font></div><div dir=3D"ltr"><br></div><div><div><div><p st=
+yle=3D"color:rgb(0,0,0);margin:0in 0in 0.0001pt"><font face=3D"tahoma, sans=
+-serif" size=3D"2">Chandmanibaatar Bayarbat<br><span style=3D"color:rgb(34,=
+34,34);line-height:19.8400001525879px">CEO at Marketincy</span></font></p><=
+p style=3D"color:rgb(0,0,0);margin:0in 0in 0.0001pt"><font face=3D"tahoma, =
+sans-serif" size=3D"2"><span style=3D"color:rgb(34,34,34);line-height:19.84=
+00001525879px">Marketing Agency</span></font></p><p style=3D"margin:0in 0in=
+ 0.0001pt"><font face=3D"tahoma, sans-serif" size=3D"2"><font color=3D"#000=
+000"><br></font></font></p><p style=3D"margin:0in 0in 0.0001pt"><a href=3D"=
+http://www.Marketincy.com" style=3D"font-size:12.8px" target=3D"_blank">Mar=
+ketincy.com</a><br></p></div></div></div></div></div></div></div></div></di=
+v>
+
+--000000000000b9a3f605d32b0e59--

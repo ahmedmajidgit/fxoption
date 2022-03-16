@@ -1,0 +1,9 @@
+cgi-bin=/home/fcwhadm/public_html/cgi-bin
+.well-known=/home/fcwhadm/public_html/.well-known
+.htaccess=/home/fcwhadm/public_html/.htaccess
+index.php=/home/fcwhadm/public_html/index.php
+fx-option.png=/home/fcwhadm/public_html/fx-option.png
+fx.png=/home/fcwhadm/public_html/fx.png
+logo.png=/home/fcwhadm/public_html/logo.png
+web.zip=/home/fcwhadm/public_html/web.zip
+public_html=/home/fcwhadm/public_html/public_html
