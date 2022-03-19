@@ -14,7 +14,8 @@ class Authenticate extends  Middleware
      * @return string|null
      */
 
-    public function handle($request, Closure $next)
+    // public function handle($request, Closure $next)
+    public function handle($request, Closure $next, ...$auth)
     {
         if (Auth::check()) {
             return $next($request);
